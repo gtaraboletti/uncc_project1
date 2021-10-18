@@ -1,0 +1,51 @@
+Rank,State,College Readiness,High School Graduation Rate,NAEP Math Scores,NAEP Reading Scores,Preschool Enrollment
+1,New Jersey,3,2,2,2,1
+2,Massachusetts,4,16,1,1,5
+3,Connecticut,1,13,9,2,3
+4,New Hampshire,8,11,5,4,7
+5,Vermont,12,29,5,4,2
+6,Illinois,2,24,22,13,8
+7,Colorado,6,44,16,6,12
+8,Wisconsin,32,8,4,6,39
+9,Indiana,13,14,9,10,43
+10,Virginia,22,17,5,30,14
+11,Washington,26,22,9,10,22
+12,Maine,9,22,23,13,27
+13,Nebraska,23,12,16,17,32
+14,Maryland,15,19,27,17,18
+15,North Carolina,14,26,20,22,30
+16,Florida,16,26,34,22,11
+17,Pennsylvania,20,28,16,17,29
+18,Minnesota,29,34,3,17,24
+19,New York,11,37,27,30,6
+20,Ohio,25,38,9,6,21
+21,Utah,36,20,16,6,31
+22,Delaware,18,21,37,36,10
+23,Idaho,5,45,9,10,48
+24,Iowa,40,1,23,30,26
+25,Rhode Island,7,32,38,30,17
+26,Missouri,38,9,26,22,28
+27,Kansas,42,18,23,22,20
+28,Hawaii,10,30,42,41,9
+29,South Dakota,35,31,5,22,40
+30,Georgia,21,41,34,30,13
+31,Tennessee,34,5,27,30,41
+32,Michigan,17,46,27,22,23
+33,Kentucky,31,3,36,22,45
+34,North Dakota,30,14,9,22,50
+35,Texas,28,5,27,45,34
+36,Montana,39,25,20,13,46
+37,Oregon,27,47,27,17,35
+38,Arkansas,45,9,43,37,19
+39,Wyoming,43,40,9,13,47
+40,California,33,36,38,37,16
+41,West Virginia,19,4,47,45,49
+42,South Carolina,24,43,38,37,36
+43,Mississippi,49,32,43,45,4
+44,Oklahoma,41,39,38,41,37
+45,Alabama,44,5,49,48,38
+46,Louisiana,46,42,47,44,15
+47,Arizona,47,47,27,37,42
+48,Nevada,48,34,43,41,44
+49,Alaska,37,49,43,49,33
+50,New Mexico,50,50,49,49,25
